@@ -1,4 +1,4 @@
-# Golang_specialisation_coursera_course_by_ian_harris
+# Programming_with_Google_Go_Specialisation_Coursera
 
 This repo contains the assignments and quiz I cleared to complete the courses in Google Go Specialisation.
 It has three courses:
