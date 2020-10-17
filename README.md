@@ -19,15 +19,15 @@ It had total of three courses starting from the basics like Variable Declaration
     - Variable Declarations
 
   - **Quiz**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-3)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/Quiz%20Feedback/Quiz-3)
 
   - **Assignments**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week3)
-    - [Week 4](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week4)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week3)
+    - [Week 4](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/getting_started_with_go/week4)
     
 #### [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods)
 
@@ -37,16 +37,16 @@ It had total of three courses starting from the basics like Variable Declaration
     - Interfaces
 
   - **Quiz**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-3)
-    - [Week 4](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-4)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-3)
+    - [Week 4](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/Quiz%20Feedback/Quiz-4)
 
   - **Assignments**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week3)
-    - [Week 4](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week4)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week3)
+    - [Week 4](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/functions_methods_in_go/week4)
     
  #### [Concurrency in GO](https://www.coursera.org/learn/golang-concurrency)
 
@@ -56,16 +56,16 @@ It had total of three courses starting from the basics like Variable Declaration
     - Synchronised Communication
 
   - **Quiz**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-3)
-    - [Week 4](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-4)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-3)
+    - [Week 4](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/Quiz%20Feedback/Quiz-4)
 
   - **Assignments**
-    - [Week 1](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week1)
-    - [Week 2](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week2)
-    - [Week 3](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week3)
-    - [Week 4](https://github.com/hardy8059/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week4)
+    - [Week 1](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week1)
+    - [Week 2](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week2)
+    - [Week 3](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week3)
+    - [Week 4](https://github.com/hardymunjal/Programming_with_Google_Go_Specialisation_Coursera/tree/master/concurrency_in_go/week4)
     
 ### 🔵 Feedback
 
